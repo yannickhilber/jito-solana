@@ -1,5 +1,7 @@
-/dos/farf/
-/farf/
+Cargo.lock
+
+farf/
+target/
 /solana-release/
 /solana-release.tar.bz2
 /solana-metrics/
